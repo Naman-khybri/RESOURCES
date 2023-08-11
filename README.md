@@ -9,7 +9,7 @@ This repository is made for collecting all the resources whether it be links or 
 
 <li>CISCO BOOKS - https://drive.google.com/drive/folders/19wOlwVfRGAdNnbE9-dJylYxZN7eXHRVN</li>
 
-<li>https://drive.google.com/drive/folders/1oLvYU3uj23fumRNF9IL8yIE4vYIVvvSz</li>
+<li>PLACEMENT PREP(CSE) - https://drive.google.com/drive/folders/1oLvYU3uj23fumRNF9IL8yIE4vYIVvvSz</li>
 </ul>
 
 **CRACK WEBSITES :-**
