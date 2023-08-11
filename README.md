@@ -12,7 +12,7 @@ This repository is made for collecting all the resources whether it be links or 
 
 **CRACK WEBSITES :-**
 <ul>
-<li>HackNation - www.hacknation.com</li>
+<li>HackNation - www.hacksnation.com</li>
 
 <li>GigaCourse - www.gigacourse.com</li>
 
