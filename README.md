@@ -10,6 +10,8 @@ This repository is made for collecting all the resources whether it be links or 
 <li>CISCO BOOKS - https://drive.google.com/drive/folders/19wOlwVfRGAdNnbE9-dJylYxZN7eXHRVN</li>
 
 <li>PLACEMENT PREP(CSE) - https://drive.google.com/drive/folders/1oLvYU3uj23fumRNF9IL8yIE4vYIVvvSz</li>
+
+<li>INFOSEC INSTITUTE - https://www.coursedl.org/0:/Infosec%20Institute/</li>
 </ul>
 
 **CRACK WEBSITES :-**
